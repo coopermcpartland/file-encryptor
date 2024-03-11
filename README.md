@@ -1,6 +1,6 @@
 # File Encryptor
 
-![File Encryptor](screenshots/gui.png)
+![File Encryptor](screenshots/gui.jpg)
 
 File Encryptor is a Python tool for securely encrypting and decrypting files using the Fernet symmetric encryption algorithm from the `cryptography` library.
 
